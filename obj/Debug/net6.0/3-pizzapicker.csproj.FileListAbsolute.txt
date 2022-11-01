@@ -1,0 +1,15 @@
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\bin\Debug\net6.0\3-pizzapicker.exe
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\bin\Debug\net6.0\3-pizzapicker.deps.json
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\bin\Debug\net6.0\3-pizzapicker.runtimeconfig.json
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\bin\Debug\net6.0\3-pizzapicker.dll
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\bin\Debug\net6.0\3-pizzapicker.pdb
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.csproj.AssemblyReference.cache
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.AssemblyInfoInputs.cache
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.AssemblyInfo.cs
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.csproj.CoreCompileInputs.cache
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.dll
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\refint\3-pizzapicker.dll
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.pdb
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\3-pizzapicker.genruntimeconfig.cache
+C:\Users\owend\Desktop\Tuesday\lesson04\3-pizzapicker\obj\Debug\net6.0\ref\3-pizzapicker.dll
